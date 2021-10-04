@@ -20,7 +20,7 @@ const routes = [
   {
     path: "/page2",
     name: "",
-    component: () => import("../views/AlertLog.vue"),
+    component: () => import(""),
   },
 ];
 

@@ -1,6 +1,6 @@
 <template>
   <v-container>
-  
+    <p>Hello world</p>
   </v-container>
 </template>
 
